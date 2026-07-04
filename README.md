@@ -1,13 +1,5 @@
 # SINTA FOR NURSING AND PUBLIC HEALTH JOURNAL
 
-# Key Notes 
-1. Excludes: Veterinary, Agriculture, Biomedic, Dental Journals, Sports, midwife, medical/sub-specialist only Journals.
-2. Load `agent-browser` skill
-3. Do not changes the table
-4. Information must be extracted from `./src/{i}.html`
-5. Under journal's name go to link's of `Website` crawl information there 
-6. `Article Processing Charge` usually takes note about publication fee
-7. Scope under this option only: Nursing, General Health, Health Policy Journal
 
 
 | No | Journal | Rank | Scope | Type | Price | Main Website | Information |
