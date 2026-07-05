@@ -1,7 +1,5 @@
 # SINTA FOR NURSING AND PUBLIC HEALTH JOURNAL
 
-
-
 | No | Journal | Rank | Scope | Type | Price | Main Website | Information |
 | --- | --- | --- | --- | --- | --- | -- |--- |
 | 1 | Belitung Nursing Journal (BNJ) | Sinta 1 | Nursing | APC | $990 | [https://www.belitungraya.org/BRP/index.php/bnj/index](https://www.belitungraya.org/BRP/index.php/bnj/index) | Decision: 5 Days, Acceptance: 114 days, Acceptance Rate: 23%  |
@@ -18,7 +16,7 @@
 
 All pages from `./src/` have been patched into table | Only Sinta 1 journals included (pages 1–4 data patched, pages 5–43 no S1 entries found)
 
-# SINTA 2 SCORE FOR HEALTH JOURNAL
+# SINTA 2  FOR HEALTH JOURNAL
 
 | No | Journal | Rank | Scope | Type | Price | Main Website |
 | --- | --- | --- | --- | --- | --- | --- |
