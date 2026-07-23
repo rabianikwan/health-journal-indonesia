@@ -20,11 +20,11 @@ All pages from `./src/` have been patched into table | Only Sinta 1 journals inc
 
 | No | Journal | Rank | Scope | Type | Price | Main Website |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | JURNAL PENDIDIKAN KEPERAWATAN INDONESIA | Sinta 2 | Nursing | ? | Unknown | [http://ejournal.upi.edu/index.php/JPKI/index](http://ejournal.upi.edu/index.php/JPKI/index) |
-| 2 | NurseLine Journal | Sinta 2 | Nursing | ? | Unknown | [http://jurnal.unej.ac.id/index.php/NLJ](http://jurnal.unej.ac.id/index.php/NLJ) |
-| 3 | Jurnal Ners dan Kebidanan (Journal of Ners and Midwifery) | Sinta 2 | Nursing | ? | Unknown | [http://ojs.phb.ac.id/index.php/jnk/issue/archive](http://ojs.phb.ac.id/index.php/jnk/issue/archive) |
-| 4 | Nursing and Health Sciences Journal (NHSJ) | Sinta 2 | Nursing | ? | Unknown | [https://nhs-journal.com/index.php/nhs](https://nhs-journal.com/index.php/nhs) |
-| 5 | Jurnal Ners dan Kebidanan Indonesia (Indonesian Journal of Nursing and Midwifery) | Sinta 2 | Nursing | ? | Unknown | [http://ejournal.almaata.ac.id/index.php/JNKI/issue/archive](http://ejournal.almaata.ac.id/index.php/JNKI/issue/archive) |
+| 1 | JURNAL PENDIDIKAN KEPERAWATAN INDONESIA | Sinta 2 | Nursing | APC | Rp1.500.000 | [http://ejournal.upi.edu/index.php/JPKI/index](http://ejournal.upi.edu/index.php/JPKI/index) |
+| 2 | NurseLine Journal | Sinta 2 | Nursing | APC | Rp.1.000.000 | [http://jurnal.unej.ac.id/index.php/NLJ](http://jurnal.unej.ac.id/index.php/NLJ) |
+| 3 | Jurnal Ners dan Kebidanan (Journal of Ners and Midwifery) | Sinta 2 | Nursing | APC | Rp.1.750.000 | [http://ojs.phb.ac.id/index.php/jnk/issue/archive](http://ojs.phb.ac.id/index.php/jnk/issue/archive) |
+| 4 | Nursing and Health Sciences Journal (NHSJ) | Sinta 2 | Nursing & General Health | APC| Rp.2.000.000  | [https://nhs-journal.com/index.php/nhs](https://nhs-journal.com/index.php/nhs) |
+| 5 | Jurnal Ners dan Kebidanan Indonesia (Indonesian Journal of Nursing and Midwifery) | Sinta 2 | Nursing & Midwife| APC | Rp.2.000.000  | [http://ejournal.almaata.ac.id/index.php/JNKI/issue/archive](https://ejournal.almaata.ac.id/index.php/JNKI/AuthorFee) |
 | 6 | Jurnal Keperawatan Respati Yogyakarta | Sinta 2 | Nursing | ? | Unknown | [http://nursingjurnal.respati.ac.id/index.php/JKRY/issue/archive](http://nursingjurnal.respati.ac.id/index.php/JKRY/issue/archive) |
 | 7 | Jurnal Kesehatan Manarang | Sinta 2 | General Health | ? | Unknown | [http://jurnal.poltekkesmamuju.ac.id/index.php/m/index](http://jurnal.poltekkesmamuju.ac.id/index.php/m/index) |
 | 8 | Jurnal Kesehatan Lingkungan Indonesia | Sinta 2 | General Health | ? | Unknown | [https://ejournal.undip.ac.id/index.php/jkli](https://ejournal.undip.ac.id/index.php/jkli) |
