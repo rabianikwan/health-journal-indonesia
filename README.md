@@ -25,17 +25,12 @@ SINTA 2 FOR HEALTH JOURNAL
 | 3   | Jurnal Ners dan Kebidanan (Journal of Ners and Midwifery) | Sinta 2 | Nursing | APC | Rp.1.750.000 | [Here](http://ojs.phb.ac.id/index.php/jnk/issue/archive) |
 | 4   | Nursing and Health Sciences Journal (NHSJ) | Sinta 2 | Nursing & General Health | APC | Rp.2.000.000 | [Here](https://nhs-journal.com/index.php/nhs) |
 | 5   | Jurnal Ners dan Kebidanan Indonesia (Indonesian Journal of Nursing and Midwifery) | Sinta 2 | Nursing & Midwife | APC | Rp.2.000.000 | [Here](https://ejournal.almaata.ac.id/index.php/JNKI/AuthorFee) |
-| 6   | Jurnal Keperawatan Respati Yogyakarta | Sinta 2 | Nursing | ?   | Unknown | [Here](http://nursingjurnal.respati.ac.id/index.php/JKRY/issue/archive) |
-| 7   | Jurnal Kesehatan Manarang | Sinta 2 | General Health | ?   | Unknown | [http://jurnal.poltekkesmamuju.ac.id/index.php/m/index](http://jurnal.poltekkesmamuju.ac.id/index.php/m/index) |
-| 8   | JURNAL ILMIAH KESEHATAN SANDI HUSADA | Sinta 2 | General Health | APC | Rp.3.500.000 | [https://jurnalsandihusada.polsaka.ac.id/JIKSH/home](https://jurnal.edi.or.id/index.php/jiksh/EP) |
-| 9   | International Journal of Public Health Science (IJPHS) | Sinta 2 | General Health | ?   | Unknown | [https://ijphs.iaescore.com/index.php/IJPHS/index](https://ijphs.iaescore.com/index.php/IJPHS/index) |
-| 10  | Care: Jurnal Ilmiah Ilmu Kesehatan | Sinta 2 | General Health | ?   | Unknown | [https://jurnal.unitri.ac.id/index.php/care](https://jurnal.unitri.ac.id/index.php/care) |
-| 11  | Journal of Health and Nutrition Research | Sinta 2 | General Health | ?   | Unknown | [https://www.journalmpci.com/index.php/jhnr](https://www.journalmpci.com/index.php/jhnr) |
-| 12  | Ahmar Metakarya: Jurnal Pengabdian Masyarakat | Sinta 2 | General Health | ?   | Unknown | [http://journal.ahmareduc.or.id/index.php/AMJPM](http://journal.ahmareduc.or.id/index.php/AMJPM) |
-| 13  | Media Penelitian dan Pengembangan Kesehatan | Sinta 2 | General Health | ?   | Unknown | [https://jurnal.polkesban.ac.id/index.php/jmp2k/index](https://jurnal.polkesban.ac.id/index.php/jmp2k/index) |
-| 14  | Jurnal Gizi dan Pangan | Sinta 2 | General Health | ?   | Unknown | [https://journal.ipb.ac.id/index.php/jgizipangan](https://journal.ipb.ac.id/index.php/jgizipangan) |
-| 15  | Media Gizi Indonesia | Sinta 2 | General Health | ?   | Unknown | [https://e-journal.unair.ac.id/MGI/](https://e-journal.unair.ac.id/MGI/) |
-| 16  | Jurnal Berkala Epidemiologi | Sinta 2 | General Health | ?   | Unknown | [https://e-journal.unair.ac.id/JBE/issue/archive](https://e-journal.unair.ac.id/JBE/issue/archive) |
+| 6   | Jurnal Keperawatan Respati Yogyakarta | Sinta 2 | Nursing | APC   | Rp.1.800.000 | [Here](http://nursingjurnal.respati.ac.id/index.php/JKRY/issue/archive) |
+| 7   | Jurnal Kesehatan Manarang | Sinta 2 | General Health | APC   | Rp1.500.000 | [Here](http://jurnal.poltekkesmamuju.ac.id/index.php/m/index) |
+| 8   | JURNAL ILMIAH KESEHATAN SANDI HUSADA | Sinta 2 | General Health | APC | Rp.3.500.000 | [Here](https://jurnal.edi.or.id/index.php/jiksh/EP) |
+| 9   | International Journal of Public Health Science (IJPHS) | Sinta 2 | General Health | APC  | Rp3.000.000 | [Here](https://ijphs.iaescore.com/index.php/IJPHS/index) |
+| 10  | Care: Jurnal Ilmiah Ilmu Kesehatan | Sinta 2 | General Health | Rp1.500.000   | Unknown | [Here](https://jurnal.unitri.ac.id/index.php/care) | |
+| 11  | Jurnal Berkala Epidemiologi | Sinta 2 | General Health | ?   | Unknown | [https://e-journal.unair.ac.id/JBE/issue/archive](https://e-journal.unair.ac.id/JBE/issue/archive) |
 | 17  | Poltekita: Jurnal Ilmu Kesehatan | Sinta 2 | General Health | ?   | Unknown | [https://jurnal.poltekkespalu.ac.id/index.php/JIK](https://jurnal.poltekkespalu.ac.id/index.php/JIK) |
 | 18  | Buletin Penelitian Sistem Kesehatan | Sinta 2 | General Health | ?   | Unknown | [http://ejournal.litbang.depkes.go.id/index.php/hsr/index](http://ejournal.litbang.depkes.go.id/index.php/hsr/index) |
 | 19  | Media Kesehatan Politeknik Kesehatan Makassar | Sinta 2 | General Health | ?   | Unknown | [http://journal.poltekkes-mks.ac.id/ojs2/index.php/mediakesehatan/index](http://journal.poltekkes-mks.ac.id/ojs2/index.php/mediakesehatan/index) |
