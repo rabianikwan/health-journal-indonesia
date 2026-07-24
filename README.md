@@ -16,59 +16,40 @@
 
 All pages from `./src/` have been patched into table | Only Sinta 1 journals included (pages 1–4 data patched, pages 5–43 no S1 entries found)
 
-# SINTA 2  FOR HEALTH JOURNAL
+SINTA 2 FOR HEALTH JOURNAL
 
-| No | Journal | Rank | Scope | Type | Price | Main Website |
+| No  | Journal | Rank | Scope | Type | Price | Main Website |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | JURNAL PENDIDIKAN KEPERAWATAN INDONESIA | Sinta 2 | Nursing | APC | Rp1.500.000 | [http://ejournal.upi.edu/index.php/JPKI/index](http://ejournal.upi.edu/index.php/JPKI/index) |
-| 2 | NurseLine Journal | Sinta 2 | Nursing | APC | Rp.1.000.000 | [http://jurnal.unej.ac.id/index.php/NLJ](http://jurnal.unej.ac.id/index.php/NLJ) |
-| 3 | Jurnal Ners dan Kebidanan (Journal of Ners and Midwifery) | Sinta 2 | Nursing | APC | Rp.1.750.000 | [http://ojs.phb.ac.id/index.php/jnk/issue/archive](http://ojs.phb.ac.id/index.php/jnk/issue/archive) |
-| 4 | Nursing and Health Sciences Journal (NHSJ) | Sinta 2 | Nursing & General Health | APC| Rp.2.000.000  | [https://nhs-journal.com/index.php/nhs](https://nhs-journal.com/index.php/nhs) |
-| 5 | Jurnal Ners dan Kebidanan Indonesia (Indonesian Journal of Nursing and Midwifery) | Sinta 2 | Nursing & Midwife| APC | Rp.2.000.000  | [http://ejournal.almaata.ac.id/index.php/JNKI/issue/archive](https://ejournal.almaata.ac.id/index.php/JNKI/AuthorFee) |
-| 6 | Jurnal Keperawatan Respati Yogyakarta | Sinta 2 | Nursing | ? | Unknown | [http://nursingjurnal.respati.ac.id/index.php/JKRY/issue/archive](http://nursingjurnal.respati.ac.id/index.php/JKRY/issue/archive) |
-| 7 | Jurnal Kesehatan Manarang | Sinta 2 | General Health | ? | Unknown | [http://jurnal.poltekkesmamuju.ac.id/index.php/m/index](http://jurnal.poltekkesmamuju.ac.id/index.php/m/index) |
-| 9 | JURNAL ILMIAH KESEHATAN SANDI HUSADA | Sinta 2 | General Health | APC | Rp.3.500.000 | [https://jurnalsandihusada.polsaka.ac.id/JIKSH/home](https://jurnal.edi.or.id/index.php/jiksh/EP) |
-| 10 | International Journal of Public Health Science (IJPHS) | Sinta 2 | General Health | ? | Unknown | [https://ijphs.iaescore.com/index.php/IJPHS/index](https://ijphs.iaescore.com/index.php/IJPHS/index) |
-| 11 | Journal of Educational, Health, Community Psychology | Sinta 2 | General Health | ? | Unknown | [http://journal.uad.ac.id/index.php/Psychology/index](http://journal.uad.ac.id/index.php/Psychology/index) |
-| 12 | Care: Jurnal Ilmiah Ilmu Kesehatan | Sinta 2 | General Health | ? | Unknown | [https://jurnal.unitri.ac.id/index.php/care](https://jurnal.unitri.ac.id/index.php/care) |
-| 13 | Jurnal Gizi Klinik Indonesia | Sinta 2 | General Health | ? | Unknown | [https://journal.ugm.ac.id/index.php/jgki](https://journal.ugm.ac.id/index.php/jgki) |
-| 14 | Journal of Health and Nutrition Research | Sinta 2 | General Health | ? | Unknown | [https://www.journalmpci.com/index.php/jhnr](https://www.journalmpci.com/index.php/jhnr) |
-| 15 | Ahmar Metakarya: Jurnal Pengabdian Masyarakat | Sinta 2 | General Health | ? | Unknown | [http://journal.ahmareduc.or.id/index.php/AMJPM](http://journal.ahmareduc.or.id/index.php/AMJPM) |
-| 16 | Media Penelitian dan Pengembangan Kesehatan | Sinta 2 | General Health | ? | Unknown | [https://jurnal.polkesban.ac.id/index.php/jmp2k/index](https://jurnal.polkesban.ac.id/index.php/jmp2k/index) |
-| 17 | Jurnal Gizi dan Pangan | Sinta 2 | General Health | ? | Unknown | [https://journal.ipb.ac.id/index.php/jgizipangan](https://journal.ipb.ac.id/index.php/jgizipangan) |
-| 18 | Media Gizi Indonesia | Sinta 2 | General Health | ? | Unknown | [https://e-journal.unair.ac.id/MGI/](https://e-journal.unair.ac.id/MGI/) |
-| 19 | Jurnal Berkala Epidemiologi | Sinta 2 | General Health | ? | Unknown | [https://e-journal.unair.ac.id/JBE/issue/archive](https://e-journal.unair.ac.id/JBE/issue/archive) |
-| 20 | AcTion: Aceh Nutrition Journal | Sinta 2 | General Health | ? | Unknown | [http://ejournal.poltekkesaceh.ac.id/index.php/an](http://ejournal.poltekkesaceh.ac.id/index.php/an) |
-| 21 | JMMR (Jurnal Medicoeticolegal dan Manajemen Rumah Sakit) | Sinta 2 | General Health | ? | Unknown | [https://jmmr.umy.ac.id/index.php/jmmr/about](https://jmmr.umy.ac.id/index.php/jmmr/about) |
-| 22 | Jurnal Manajemen Kesehatan Yayasan RS.Dr. Soetomo | Sinta 2 | General Health | ? | Unknown | [http://jurnal.stikes-yrsds.ac.id/index.php/JMK/index](http://jurnal.stikes-yrsds.ac.id/index.php/JMK/index) |
-| 23 | Contagion: Scientific Periodical Journal of Public Health and Coastal Health | Sinta 2 | General Health | ? | Unknown | [http://jurnal.uinsu.ac.id/index.php/contagion](http://jurnal.uinsu.ac.id/index.php/contagion) |
-| 24 | GEMA Lingkungan Kesehatan | Sinta 2 | General Health | ? | Unknown | [https://gelinkes.poltekkesdepkes-sby.ac.id/index.php/gelinkes](https://gelinkes.poltekkesdepkes-sby.ac.id/index.php/gelinkes) |
-| 25 | Jurnal Gizi Indonesia (The Indonesian Journal of Nutrition) | Sinta 2 | General Health | ? | Unknown | [https://ejournal.undip.ac.id/index.php/jgi/index](https://ejournal.undip.ac.id/index.php/jgi/index) |
-| 26 | Poltekita: Jurnal Ilmu Kesehatan | Sinta 2 | General Health | ? | Unknown | [https://jurnal.poltekkespalu.ac.id/index.php/JIK](https://jurnal.poltekkespalu.ac.id/index.php/JIK) |
-| 27 | Buletin Penelitian Sistem Kesehatan | Sinta 2 | General Health | ? | Unknown | [http://ejournal.litbang.depkes.go.id/index.php/hsr/index](http://ejournal.litbang.depkes.go.id/index.php/hsr/index) |
-| 28 | Media Kesehatan Politeknik Kesehatan Makassar | Sinta 2 | General Health | ? | Unknown | [http://journal.poltekkes-mks.ac.id/ojs2/index.php/mediakesehatan/index](http://journal.poltekkes-mks.ac.id/ojs2/index.php/mediakesehatan/index) |
-| 29 | Buletin Penelitian Kesehatan | Sinta 2 | General Health | ? | Unknown | [https://ojs.polkespalupress.id/index.php/bpk/](https://ojs.polkespalupress.id/index.php/bpk/) |
-| 30 | Mutiara Medika: Jurnal Kedokteran dan Kesehatan | Sinta 2 | General Health | ? | Unknown | [https://journal.umy.ac.id/index.php/mm/index](https://journal.umy.ac.id/index.php/mm/index) |
-| 31 | Al-Sihah : The Public Health Science Journal | Sinta 2 | General Health | ? | Unknown | [http://journal.uin-alauddin.ac.id/index.php/Al-Sihah](http://journal.uin-alauddin.ac.id/index.php/Al-Sihah) |
-| 32 | Indonesian Journal of Tropical and Infectious Disease | Sinta 2 | General Health | ? | Unknown | [https://e-journal.unair.ac.id/index.php/IJTID](https://e-journal.unair.ac.id/index.php/IJTID) |
-| 33 | Journal of Epidemiology and Public Health | Sinta 2 | General Health | ? | Unknown | [https://www.jepublichealth.com/index.php/jepublichealth/](https://www.jepublichealth.com/index.php/jepublichealth/) |
-| 34 | Aspirator: Jurnal Penelitian Penyakit Tular Vektor | Sinta 2 | General Health | ? | Unknown | [http://ejournal2.litbang.kemkes.go.id/index.php/aspirator](http://ejournal2.litbang.kemkes.go.id/index.php/aspirator) |
-| 35 | IJHN: Indonesian Journal of Human Nutrition | Sinta 2 | General Health | ? | Unknown | [https://ijhn.ub.ac.id/index.php/ijhn/index](https://ijhn.ub.ac.id/index.php/ijhn/index) |
-| 36 | Ahmar Metastasis Health Journal (AMHJ) | Sinta 2 | General Health | ? | Unknown | [http://journal.ahmareduc.or.id/index.php/AMHJ](http://journal.ahmareduc.or.id/index.php/AMHJ) |
-| 37 | An Idea Health Journal | Sinta 2 | General Health | ? | Unknown | [http://ihj.ideajournal.id/index.php/IHJ](http://ihj.ideajournal.id/index.php/IHJ) |
-| 38 | Journal Of Vocational Health Studies | Sinta 2 | General Health | ? | Unknown | [https://e-journal.unair.ac.id/jvhs](https://e-journal.unair.ac.id/jvhs) |
-| 39 | International Journal of Integrated Health Sciences | Sinta 2 | General Health | ? | Unknown | [http://journal.fk.unpad.ac.id/index.php/ijihs](http://journal.fk.unpad.ac.id/index.php/ijihs) |
-| 40 | Global Medical and Health Communication | Sinta 2 | General Health | ? | Unknown | [https://ejournal.unisba.ac.id/index.php/gmhc](https://ejournal.unisba.ac.id/index.php/gmhc) |
-| 41 | Saintika Medika: Jurnal Ilmu Kesehatan dan Kedokteran Keluarga | Sinta 2 | General Health | ? | Unknown | [https://ejournal.umm.ac.id/index.php/sainmed](https://ejournal.umm.ac.id/index.php/sainmed) |
-| 42 | Makara Journal of Health Research | Sinta 2 | General Health | ? | Unknown | [https://scholarhub.ui.ac.id/mjhr/](https://scholarhub.ui.ac.id/mjhr/) |
-| 43 | Gizi Indonesia | Sinta 2 | General Health | ? | Unknown | [https://ejournal.persagi.org/index.php/Gizi_Indon/](https://ejournal.persagi.org/index.php/Gizi_Indon/) |
-| 44 | Jurnal Promosi Kesehatan Indonesia | Sinta 2 | General Health | ? | Unknown | [http://ejournal.undip.ac.id/index.php/jpki/](http://ejournal.undip.ac.id/index.php/jpki/) |
-| 45 | Jurnal Tumbuhan Obat Indonesia | Sinta 2 | General Health | ? | Unknown | [https://journal.untidar.ac.id/index.php/toi](https://journal.untidar.ac.id/index.php/toi) |
-| 46 | Berita Kedokteran Masyarakat | Sinta 2 | General Health | ? | Unknown | [https://jurnal.ugm.ac.id/v3/BKM](https://jurnal.ugm.ac.id/v3/BKM) |
-| 47 | Unnes Journal of Public Health | Sinta 2 | General Health | ? | Unknown | [https://journal.unnes.ac.id/journals/ujph](https://journal.unnes.ac.id/journals/ujph) |
-| 48 | JHE (Journal of Health Education) | Sinta 2 | General Health | ? | Unknown | [https://journal.unnes.ac.id/journals/jhealthedu](https://journal.unnes.ac.id/journals/jhealthedu) |
-| 49 | BALABA (Jurnal Litbang Pengendalian Penyakit Bersumber Binatang Banjarnegara) | Sinta 2 | General Health | ? | Unknown | [https://ejournal2.litbang.kemkes.go.id/index.php/blb](https://ejournal2.litbang.kemkes.go.id/index.php/blb) |
-| 50 | Journal of Health Promotion and Behavior | Sinta 2 | Health Policy | ? | Unknown | [http://thejhpb.com](http://thejhpb.com) |
+| 1   | JURNAL PENDIDIKAN KEPERAWATAN INDONESIA | Sinta 2 | Nursing | APC | Rp1.500.000 | [http://ejournal.upi.edu/index.php/JPKI/index](http://ejournal.upi.edu/index.php/JPKI/index) |
+| 2   | NurseLine Journal | Sinta 2 | Nursing | APC | Rp.1.000.000 | [http://jurnal.unej.ac.id/index.php/NLJ](http://jurnal.unej.ac.id/index.php/NLJ) |
+| 3   | Jurnal Ners dan Kebidanan (Journal of Ners and Midwifery) | Sinta 2 | Nursing | APC | Rp.1.750.000 | [http://ojs.phb.ac.id/index.php/jnk/issue/archive](http://ojs.phb.ac.id/index.php/jnk/issue/archive) |
+| 4   | Nursing and Health Sciences Journal (NHSJ) | Sinta 2 | Nursing & General Health | APC | Rp.2.000.000 | [https://nhs-journal.com/index.php/nhs](https://nhs-journal.com/index.php/nhs) |
+| 5   | Jurnal Ners dan Kebidanan Indonesia (Indonesian Journal of Nursing and Midwifery) | Sinta 2 | Nursing & Midwife | APC | Rp.2.000.000 | [http://ejournal.almaata.ac.id/index.php/JNKI/issue/archive](https://ejournal.almaata.ac.id/index.php/JNKI/AuthorFee) |
+| 6   | Jurnal Keperawatan Respati Yogyakarta | Sinta 2 | Nursing | ?   | Unknown | [http://nursingjurnal.respati.ac.id/index.php/JKRY/issue/archive](http://nursingjurnal.respati.ac.id/index.php/JKRY/issue/archive) |
+| 7   | Jurnal Kesehatan Manarang | Sinta 2 | General Health | ?   | Unknown | [http://jurnal.poltekkesmamuju.ac.id/index.php/m/index](http://jurnal.poltekkesmamuju.ac.id/index.php/m/index) |
+| 8   | JURNAL ILMIAH KESEHATAN SANDI HUSADA | Sinta 2 | General Health | APC | Rp.3.500.000 | [https://jurnalsandihusada.polsaka.ac.id/JIKSH/home](https://jurnal.edi.or.id/index.php/jiksh/EP) |
+| 9   | International Journal of Public Health Science (IJPHS) | Sinta 2 | General Health | ?   | Unknown | [https://ijphs.iaescore.com/index.php/IJPHS/index](https://ijphs.iaescore.com/index.php/IJPHS/index) |
+| 10  | Care: Jurnal Ilmiah Ilmu Kesehatan | Sinta 2 | General Health | ?   | Unknown | [https://jurnal.unitri.ac.id/index.php/care](https://jurnal.unitri.ac.id/index.php/care) |
+| 11  | Journal of Health and Nutrition Research | Sinta 2 | General Health | ?   | Unknown | [https://www.journalmpci.com/index.php/jhnr](https://www.journalmpci.com/index.php/jhnr) |
+| 12  | Ahmar Metakarya: Jurnal Pengabdian Masyarakat | Sinta 2 | General Health | ?   | Unknown | [http://journal.ahmareduc.or.id/index.php/AMJPM](http://journal.ahmareduc.or.id/index.php/AMJPM) |
+| 13  | Media Penelitian dan Pengembangan Kesehatan | Sinta 2 | General Health | ?   | Unknown | [https://jurnal.polkesban.ac.id/index.php/jmp2k/index](https://jurnal.polkesban.ac.id/index.php/jmp2k/index) |
+| 14  | Jurnal Gizi dan Pangan | Sinta 2 | General Health | ?   | Unknown | [https://journal.ipb.ac.id/index.php/jgizipangan](https://journal.ipb.ac.id/index.php/jgizipangan) |
+| 15  | Media Gizi Indonesia | Sinta 2 | General Health | ?   | Unknown | [https://e-journal.unair.ac.id/MGI/](https://e-journal.unair.ac.id/MGI/) |
+| 16  | Jurnal Berkala Epidemiologi | Sinta 2 | General Health | ?   | Unknown | [https://e-journal.unair.ac.id/JBE/issue/archive](https://e-journal.unair.ac.id/JBE/issue/archive) |
+| 17  | Poltekita: Jurnal Ilmu Kesehatan | Sinta 2 | General Health | ?   | Unknown | [https://jurnal.poltekkespalu.ac.id/index.php/JIK](https://jurnal.poltekkespalu.ac.id/index.php/JIK) |
+| 18  | Buletin Penelitian Sistem Kesehatan | Sinta 2 | General Health | ?   | Unknown | [http://ejournal.litbang.depkes.go.id/index.php/hsr/index](http://ejournal.litbang.depkes.go.id/index.php/hsr/index) |
+| 19  | Media Kesehatan Politeknik Kesehatan Makassar | Sinta 2 | General Health | ?   | Unknown | [http://journal.poltekkes-mks.ac.id/ojs2/index.php/mediakesehatan/index](http://journal.poltekkes-mks.ac.id/ojs2/index.php/mediakesehatan/index) |
+| 20  | Buletin Penelitian Kesehatan | Sinta 2 | General Health | ?   | Unknown | [https://ojs.polkespalupress.id/index.php/bpk/](https://ojs.polkespalupress.id/index.php/bpk/) |
+| 21  | Mutiara Medika: Jurnal Kedokteran dan Kesehatan | Sinta 2 | General Health | ?   | Unknown | [https://journal.umy.ac.id/index.php/mm/index](https://journal.umy.ac.id/index.php/mm/index) |
+| 22  | Al-Sihah : The Public Health Science Journal | Sinta 2 | General Health | ?   | Unknown | [http://journal.uin-alauddin.ac.id/index.php/Al-Sihah](http://journal.uin-alauddin.ac.id/index.php/Al-Sihah) |
+| 23  | Journal of Epidemiology and Public Health | Sinta 2 | General Health | ?   | Unknown | [https://www.jepublichealth.com/index.php/jepublichealth/](https://www.jepublichealth.com/index.php/jepublichealth/) |
+| 24  | An Idea Health Journal | Sinta 2 | General Health | ?   | Unknown | [http://ihj.ideajournal.id/index.php/IHJ](http://ihj.ideajournal.id/index.php/IHJ) |
+| 25  | Journal Of Vocational Health Studies | Sinta 2 | General Health | ?   | Unknown | [https://e-journal.unair.ac.id/jvhs](https://e-journal.unair.ac.id/jvhs) |
+| 26  | International Journal of Integrated Health Sciences | Sinta 2 | General Health | ?   | Unknown | [http://journal.fk.unpad.ac.id/index.php/ijihs](http://journal.fk.unpad.ac.id/index.php/ijihs) |
+| 27  | Global Medical and Health Communication | Sinta 2 | General Health | ?   | Unknown | [https://ejournal.unisba.ac.id/index.php/gmhc](https://ejournal.unisba.ac.id/index.php/gmhc) |
+| 28  | Saintika Medika: Jurnal Ilmu Kesehatan dan Kedokteran Keluarga | Sinta 2 | General Health | ?   | Unknown | [https://ejournal.umm.ac.id/index.php/sainmed](https://ejournal.umm.ac.id/index.php/sainmed) |
+| 29  | Makara Journal of Health Research | Sinta 2 | General Health | ?   | Unknown | [https://scholarhub.ui.ac.id/mjhr/](https://scholarhub.ui.ac.id/mjhr/) |
+| 30  | Unnes Journal of Public Health | Sinta 2 | General Health | ?   | Unknown | [https://journal.unnes.ac.id/journals/ujph](https://journal.unnes.ac.id/journals/ujph) |
 
 Data from pages 4–16 in `./src/` (pages 17–43 have no S2 entries matching scope criteria)
 
