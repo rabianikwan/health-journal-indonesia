@@ -1,18 +1,18 @@
 # SINTA FOR NURSING AND PUBLIC HEALTH JOURNAL
 
-| No | Journal | Rank | Scope | Type | Price | Main Website | Information |
-| --- | --- | --- | --- | --- | --- | -- |--- |
-| 1 | Belitung Nursing Journal (BNJ) | Sinta 1 | Nursing | APC | $990 | [https://www.belitungraya.org/BRP/index.php/bnj/index](https://www.belitungraya.org/BRP/index.php/bnj/index) | Decision: 5 Days, Acceptance: 114 days, Acceptance Rate: 23%  |
-| 2 | Indonesian Journal of Health Administration (JAKI) | Sinta 1 | Health policy | Free | $0 | [https://e-journal.unair.ac.id/JAKI/index](https://e-journal.unair.ac.id/JAKI/index) | Decision: 15 Days|
-| 3 | Jurnal Keperawatan Padjadjaran (JKP) | Sinta 1 | Nursing | APC | $200 | [https://jkp.fkep.unpad.ac.id/index.php/jkp/apc](https://jkp.fkep.unpad.ac.id/index.php/jkp/apc) |  Decision: 37 Days, Acceptance: 93 days, Acceptance Rate: 15% |
-| 4 | THE INDONESIAN JOURNAL OF PUBLIC HEALTH | Sinta 1 | General Health | APC | Rp1.250.000 | [https://e-journal.unair.ac.id/IJPH/index](https://e-journal.unair.ac.id/IJPH/index) | Not Mentioned |
-| 5 | Jurnal Ners | Sinta 1 | Nursing | APC | Rp7.500.000 | [https://e-journal.unair.ac.id/JNERS/index](https://e-journal.unair.ac.id/JNERS/index) | Decision: max 14 Days |
-| 6 | Public Health of Indonesia | Sinta 1 | General Health | ? | Not Mentioned | [https://stikbar.org/ycabpublisher/index.php/PHI/index](https://stikbar.org/ycabpublisher/index.php/PHI/index) | Not Mentioned |
-| 7 | Jurnal Kedokteran dan Kesehatan Indonesia | Sinta 1 | Medical & General Health | APC | Rp 1.500.000 | [https://journal.uii.ac.id/JKKI](https://journal.uii.ac.id/JKKI) | Decision: max 60 days |
-| 8 | Jurnal Keperawatan Indonesia | Sinta 1 | Nursing | Free | 0 | [https://jki.ui.ac.id/index.php/jki](https://jki.ui.ac.id/index.php/jki) | Information |
-| 9 | Media Kesehatan Masyarakat Indonesia | Sinta 1 | General Health | APC | $250 | [http://journal.unhas.ac.id/index.php/mkmi](http://journal.unhas.ac.id/index.php/mkmi) | Information |
-| 10 | Jurnal Kesehatan Masyarakat | Sinta 1 | General Health | APC | Rp3.300.000 | [https://journal.unnes.ac.id/journals/kemas](https://journal.unnes.ac.id/journals/kemas/) | Information |
-| 11 | Jurnal Keperawatan Soedirman | Sinta 1 | Nursing | APC | $200 | [https://jos.unsoed.ac.id/index.php/jks/index](https://jos.unsoed.ac.id/index.php/jks/index) | Information |
+| No  | Journal | Rank | Scope | Type | Price | Main Website | Information |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1   | Belitung Nursing Journal (BNJ) | Sinta 1 | Nursing | APC | $990 | [Here](https://www.belitungraya.org/BRP/index.php/bnj/index) | Decision: 5 Days, Acceptance: 114 days, Acceptance Rate: 23% |
+| 2   | Indonesian Journal of Health Administration (JAKI) | Sinta 1 | Health policy | Free | $0  | [Here](https://e-journal.unair.ac.id/JAKI/index) | Decision: 15 Days |
+| 3   | Jurnal Keperawatan Padjadjaran (JKP) | Sinta 1 | Nursing | APC | $200 | [Here](https://jkp.fkep.unpad.ac.id/index.php/jkp/apc) | Decision: 37 Days, Acceptance: 93 days, Acceptance Rate: 15% |
+| 4   | THE INDONESIAN JOURNAL OF PUBLIC HEALTH | Sinta 1 | General Health | APC | Rp1.250.000 | [Here](https://e-journal.unair.ac.id/IJPH/index) | Not Mentioned |
+| 5   | Jurnal Ners | Sinta 1 | Nursing | APC | Rp7.500.000 | [Here](https://e-journal.unair.ac.id/JNERS/index) | Decision: max 14 Days |
+| 6   | Public Health of Indonesia | Sinta 1 | General Health | ?   | Not Mentioned | [Here](https://stikbar.org/ycabpublisher/index.php/PHI/index) | Not Mentioned |
+| 7   | Jurnal Kedokteran dan Kesehatan Indonesia | Sinta 1 | Medical & General Health | APC | Rp 1.500.000 | [Here](https://journal.uii.ac.id/JKKI) | Decision: max 60 days |
+| 8   | Jurnal Keperawatan Indonesia | Sinta 1 | Nursing | Free | 0   | [Here](https://jki.ui.ac.id/index.php/jki) | Information |
+| 9   | Media Kesehatan Masyarakat Indonesia | Sinta 1 | General Health | APC | $250 | [Here](http://journal.unhas.ac.id/index.php/mkmi) | Information |
+| 10  | Jurnal Kesehatan Masyarakat | Sinta 1 | General Health | APC | Rp3.300.000 | [Here](https://journal.unnes.ac.id/journals/kemas/) | Information |
+| 11  | Jurnal Keperawatan Soedirman | Sinta 1 | Nursing | APC | $200 | [Website Down](https://jos.unsoed.ac.id/index.php/jks/index) | Information |
 
 All pages from `./src/` have been patched into table | Only Sinta 1 journals included (pages 1–4 data patched, pages 5–43 no S1 entries found)
 
