@@ -27,8 +27,7 @@ All pages from `./src/` have been patched into table | Only Sinta 1 journals inc
 | 5 | Jurnal Ners dan Kebidanan Indonesia (Indonesian Journal of Nursing and Midwifery) | Sinta 2 | Nursing & Midwife| APC | Rp.2.000.000  | [http://ejournal.almaata.ac.id/index.php/JNKI/issue/archive](https://ejournal.almaata.ac.id/index.php/JNKI/AuthorFee) |
 | 6 | Jurnal Keperawatan Respati Yogyakarta | Sinta 2 | Nursing | ? | Unknown | [http://nursingjurnal.respati.ac.id/index.php/JKRY/issue/archive](http://nursingjurnal.respati.ac.id/index.php/JKRY/issue/archive) |
 | 7 | Jurnal Kesehatan Manarang | Sinta 2 | General Health | ? | Unknown | [http://jurnal.poltekkesmamuju.ac.id/index.php/m/index](http://jurnal.poltekkesmamuju.ac.id/index.php/m/index) |
-| 8 | Jurnal Kesehatan Lingkungan Indonesia | Sinta 2 | General Health | ? | Unknown | [https://ejournal.undip.ac.id/index.php/jkli](https://ejournal.undip.ac.id/index.php/jkli) |
-| 9 | JURNAL ILMIAH KESEHATAN SANDI HUSADA | Sinta 2 | General Health | ? | Unknown | [https://jurnalsandihusada.polsaka.ac.id/JIKSH/home](https://jurnalsandihusada.polsaka.ac.id/JIKSH/home) |
+| 9 | JURNAL ILMIAH KESEHATAN SANDI HUSADA | Sinta 2 | General Health | APC | Rp.3.500.000 | [https://jurnalsandihusada.polsaka.ac.id/JIKSH/home](https://jurnal.edi.or.id/index.php/jiksh/EP) |
 | 10 | International Journal of Public Health Science (IJPHS) | Sinta 2 | General Health | ? | Unknown | [https://ijphs.iaescore.com/index.php/IJPHS/index](https://ijphs.iaescore.com/index.php/IJPHS/index) |
 | 11 | Journal of Educational, Health, Community Psychology | Sinta 2 | General Health | ? | Unknown | [http://journal.uad.ac.id/index.php/Psychology/index](http://journal.uad.ac.id/index.php/Psychology/index) |
 | 12 | Care: Jurnal Ilmiah Ilmu Kesehatan | Sinta 2 | General Health | ? | Unknown | [https://jurnal.unitri.ac.id/index.php/care](https://jurnal.unitri.ac.id/index.php/care) |
